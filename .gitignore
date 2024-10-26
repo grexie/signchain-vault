@@ -1,0 +1,5 @@
+/__debug*
+/.env*
+/.vscode/
+!/.env.example
+/build/
